@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>mid-server</category>
+        <content><![CDATA[ <h1 class="title topictitle1">MID Server MIB files</h1>  <div class="body conbody">  <p class="p"><span class="ph">A management information base module (MIB) is a database that is      used to manage elements in a network. </span>   <span class="ph">Your instance includes object definitions from the most common          management information base (MIB) files. Before adding a new object definition, consult          the list of MIB modules to ensure that the object definitions are not already available.          The instance includes object definitions from the most common <a class="xref" href="http://en.wikipedia.org/wiki/Management_information_base" target="_blank">management information base (MIB)</a> files. The MID Server MIB File          [ecc_agent_mib] table is domain separated. You can create versions of these policies that          only a MID Server from the same domain can use.</span></p> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:MID_Server_SNMP_MIBs&amp;version&#61;kingston" target="_blank">SNMP probe MIB modules</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:DomainSpecificMIDFiles&amp;version&#61;kingston" target="_blank">Create domain-specific MID server files</a></div></div></div></div>]]></content>
+        <last_sync>2018-07-06 10:54:10</last_sync>
+        <modifier>normal</modifier>
+        <name>ecc_agent_mib-normal</name>
+        <page>ecc_agent_mib</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-06 10:54:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>76a6d08fdb8f1300b5300d53ca9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ecc_agent_mib-normal</sys_name>
+        <sys_package display_value="MCPS" source="x_202510_mcps">94529762db831300b5300d53ca9619c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCPS">94529762db831300b5300d53ca9619c9</sys_scope>
+        <sys_update_name>sys_embedded_help_content_76a6d08fdb8f1300b5300d53ca9619ec</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-06 10:54:10</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=76a6d08fdb8f1300b5300d53ca9619ec"/>
+</record_update>

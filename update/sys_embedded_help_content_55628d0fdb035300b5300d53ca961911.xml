@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>credentials</category>
+        <content><![CDATA[    <h1 class="title topictitle1">Create SNMP credentials</h1>        <div class="body taskbody">        <div class="section context"><span class="ph">Discovery explores many kinds of devices (switches, routers,          printers, etc.) using the SNMP protocol. Credentials for SNMP do not include a user name,          just a password, called the community string.</span></div>        <ol class="ol steps" id="snmp_credentials-normal__s_CreateCredAndTest"><li class="li step">                <span class="ph cmd">Complete the fields in the form.</span>            </li><li class="li step">                <span class="ph cmd">To test your credential before you submit it, click <span class="ph uicontrol">Test                        credential</span> under <span class="ph uicontrol">Related Links</span>.</span>            </li><li class="li step">                <span class="ph cmd">Provide the connection specifics in the Test Credential dialog box and click                        <span class="ph uicontrol">OK</span>.</span>            </li><li class="li step">                <span class="ph cmd">If the credential connects to the target, click                    <span class="ph uicontrol">Submit</span>.</span>            </li></ol>    </div>    <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:SNMPCommunityCredentials&amp;version&#61;kingston" target="_blank">SNMP community credentials</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:TestCredentials&amp;version&#61;kingston" target="_blank">Test credentials</a></div></div></div></div>]]></content>
+        <last_sync>2018-07-06 14:05:13</last_sync>
+        <modifier>normal</modifier>
+        <name>snmp_credentials-normal</name>
+        <page>snmp_credentials</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-06 14:05:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>55628d0fdb035300b5300d53ca961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>snmp_credentials-normal</sys_name>
+        <sys_package display_value="MCPS" source="x_202510_mcps">94529762db831300b5300d53ca9619c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCPS">94529762db831300b5300d53ca9619c9</sys_scope>
+        <sys_update_name>sys_embedded_help_content_55628d0fdb035300b5300d53ca961911</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-06 14:05:13</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=55628d0fdb035300b5300d53ca961911"/>
+</record_update>

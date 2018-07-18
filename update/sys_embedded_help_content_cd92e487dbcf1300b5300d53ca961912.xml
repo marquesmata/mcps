@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[    <h1 class="title topictitle1">SNMP trap listeners</h1>        <div class="body taskbody">        <div class="section prereq p" id="ecc_agent_ext_context_trap_list-normal__prereq_hmt_1ry_w1b">Before starting this procedure, confirm with                your <span class="ph">ServiceNow</span>                representative that the server and software specifications for hosting the MID                Server are met. Also confirm that the MID Server version matches the <span class="ph">ServiceNow</span> instance version.                For example, navigate to <span class="ph uicontrol">MID Server</span>, click a                    <span class="ph uicontrol">Name</span>, and confirm that the <span class="ph uicontrol">Version</span>                is the same as the <span class="ph">ServiceNow</span>                instance version.<p class="p">Role required: evt_mgmt_operator</p>            </div>    </div>]]></content>
+        <last_sync>2018-07-06 11:46:13</last_sync>
+        <modifier>normal</modifier>
+        <name>ecc_agent_ext_context_trap_list-normal</name>
+        <page>ecc_agent_ext_context_trap_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-06 11:46:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd92e487dbcf1300b5300d53ca961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ecc_agent_ext_context_trap_list-normal</sys_name>
+        <sys_package display_value="MCPS" source="x_202510_mcps">94529762db831300b5300d53ca9619c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCPS">94529762db831300b5300d53ca9619c9</sys_scope>
+        <sys_update_name>sys_embedded_help_content_cd92e487dbcf1300b5300d53ca961912</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-06 11:46:13</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd92e487dbcf1300b5300d53ca961912"/>
+</record_update>

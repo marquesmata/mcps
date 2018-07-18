@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>discovery</category>
+        <content><![CDATA[    <h1 class="title topictitle1">SNMP system OIDs</h1>        <div class="body taskbody">        <div class="section context">The SNMP classifier uses SNMP object identifiers (OID) to match known network            devices by their unique object ID values. When Discovery finds a matching OID value, it            uses the information to populate the CMDB with the specified manufacturer, model, and classification.<div class="p">                <div class="note note"><span class="notetitle">Note:</span> SNMP OIDs must be manually attached to SNMP classifiers and are listed in the                        <span class="ph uicontrol">SNMP OID Classifications</span> related list in the SNMP                    Classification form.</div>            </div></div>        <ol class="ol steps"><li class="li step">                <span class="ph cmd">Enter the OID for the network device in the <span class="ph uicontrol">Oid</span>                    field.</span>            </li><li class="li step">                <span class="ph cmd">Enter the manufacturer and model information in the appropriate fields.</span>            </li><li class="li step">                <span class="ph cmd">Select the appropriate table for the device from the                        <span class="ph uicontrol">Table</span> field.</span>            </li><li class="li step">                <span class="ph cmd">Select the classifier to which this OID is attached from the                        <span class="ph uicontrol">Classifier</span> field.</span>            </li><li class="li step">                <span class="ph cmd">Click <span class="ph uicontrol">Submit</span>.</span>            </li></ol>    </div>    <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:CreateCIClassification&amp;version&#61;kingston" target="_blank">Create a Discovery CI classification</a></div></div></div></div>]]></content>
+        <last_sync>2018-07-06 11:08:06</last_sync>
+        <modifier>normal</modifier>
+        <name>discovery_snmp_oid-normal</name>
+        <page>discovery_snmp_oid</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-06 11:08:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3ed99403dbcf1300b5300d53ca9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>discovery_snmp_oid-normal</sys_name>
+        <sys_package display_value="MCPS" source="x_202510_mcps">94529762db831300b5300d53ca9619c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCPS">94529762db831300b5300d53ca9619c9</sys_scope>
+        <sys_update_name>sys_embedded_help_content_3ed99403dbcf1300b5300d53ca9619cd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-06 11:08:06</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=3ed99403dbcf1300b5300d53ca9619cd"/>
+</record_update>

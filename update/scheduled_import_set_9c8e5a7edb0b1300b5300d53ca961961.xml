@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="scheduled_import_set">
+    <scheduled_import_set action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <data_source display_value="MCPS imports Updates">296e567edb0b1300b5300d53ca961912</data_source>
+        <map/>
+        <name>MCPS import files Update</name>
+        <order/>
+        <parent/>
+        <post_script/>
+        <post_script_bool>false</post_script_bool>
+        <pre_script/>
+        <pre_script_bool>false</pre_script_bool>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2018-07-05 14:39:52</run_start>
+        <run_time>1970-01-01 14:46:00</run_time>
+        <run_type>daily</run_type>
+        <sys_class_name>scheduled_import_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-06 02:09:10</sys_created_on>
+        <sys_id>9c8e5a7edb0b1300b5300d53ca961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MCPS import files Update</sys_name>
+        <sys_package display_value="MCPS" source="x_202510_mcps">94529762db831300b5300d53ca9619c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCPS">94529762db831300b5300d53ca9619c9</sys_scope>
+        <sys_update_name>scheduled_import_set_9c8e5a7edb0b1300b5300d53ca961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-06 02:09:10</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </scheduled_import_set>
+</record_update>
