@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>MCPS Inventory</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>MCPS Inventory</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">2c0b19d55d121300651727c3e282e80e</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-18 00:38:31</sys_created_on>
+        <sys_id>1ddcfb6adb1f5300b5300d53ca9619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MCPS Inventory</sys_name>
+        <sys_package display_value="MCPS" source="x_202510_mcps">94529762db831300b5300d53ca9619c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCPS">94529762db831300b5300d53ca9619c9</sys_scope>
+        <sys_update_name>sys_wizard_answer_1ddcfb6adb1f5300b5300d53ca9619bb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-18 00:38:31</sys_updated_on>
+        <table/>
+        <target_url>x_202510_mcps_cmdb_ci_hardware.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
